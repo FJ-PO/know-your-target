@@ -99,7 +99,7 @@ Lo que si he podido descubrir es cómo tienen montado el correo:
 | **Google Workspace** | El correo de los empleados @tinder.com lo lleva Google |
 | **Zendesk** | El soporte / centro de ayuda help.tinder.com |
 | **SendGrid** | El envío masivo de correos a usuarios |
-| **AWS ** | Correos automáticos |
+| **AWS** | Correos automáticos |
 
 También tienen la configuración anti-suplantación del correo muy bien puesta: el DMARC está en modo reject, que es el más estricto, así que es difícil mandar correos falsos haciéndose pasar por @tinder.com.
 
