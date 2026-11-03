@@ -1,0 +1,19 @@
+# scope.txt  programa: Tinder en Hackerone consultado: 2026-10-28
+*.tinder.com
+*.gotinder.com
+*.tinderops.net
+*.tstaging.com
+*.tstaging.tools
+*.tinderwebstaging.com
+com.tinder
+547702041
+# fuera de alcance (no se toca):
+!go.tinder.com
+!www.help.tinder.com
+!gotinder.imgix.net
+!console.gotinder.com
+!party.tinder.com
+!open.tinder.com
+!matchmaker.tinder.com
+!invite.tinder.com
+!click.tinder.com
